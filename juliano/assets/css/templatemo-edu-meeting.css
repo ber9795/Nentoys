@@ -170,6 +170,15 @@ body {
     margin-bottom: 60px;
   }
 }
+@media (max-width: 767px) {
+.logo {
+  margin:auto;
+padding:auto;
+width:54%!important;
+
+}
+}
+
 
 .main-button-red a {
   font-size: 13px;
@@ -603,7 +612,8 @@ header
   }
   .header-area .menu-trigger {
     display: block !important;
-  }
+    }
+
   .header-area .main-nav {
     overflow: hidden;
     
@@ -765,6 +775,12 @@ banner
 }
 
 @media screen and (max-width: 767px) {
+
+#bg-video {
+
+  object-fit: cover;
+  margin-bottom: -42px;
+}
 
   .main-banner .caption h6 {
     font-weight: 500;
@@ -1086,6 +1102,8 @@ section.apply-now .item p {
   
   section.apply-now {
 margin-left:-5% ;
+padding-top: 250px;
+padding-bottom:20px;
 
   }
   .accordion-head {
@@ -1256,6 +1274,12 @@ section.our-courses {
   height: 50px;
   border-radius: 50%;
   line-height: 50px;
+}
+
+@media (max-width: 767px) {
+  section.our-courses {
+    padding-bottom: 20px;
+  }
 }
 
 
@@ -1459,7 +1483,9 @@ section.contact-us .right-info ul li span {
  }
 
  @media (max-width: 767px)  {
-
+    .footer{
+margin-top: 20px;
+  }
   section.contact-us #contact h2 {
     text-align: center;
   }
@@ -1476,6 +1502,9 @@ width: 370px;
 
   }
 
+  section.contact-us {
+    margin-left: -10px;
+  }
 }
 
 
