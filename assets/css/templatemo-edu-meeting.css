@@ -174,7 +174,7 @@ body {
 .logo {
   margin:auto;
 padding:auto;
-width:54%!important;
+width:47%!important;
 
 }
 }
@@ -1101,7 +1101,7 @@ section.apply-now .item p {
 @media (max-width: 767px) {
   
   section.apply-now {
-margin-left:-5% ;
+margin-left:-10% ;
 padding-top: 250px;
 padding-bottom:20px;
 
@@ -1113,13 +1113,13 @@ padding-bottom:20px;
   section.apply-now .item p {
 
  text-align: center;
-width: 290px;
+width: 390px;
 font-size: 12px;
   }
 
   section.apply-now .item h3 {
     text-align: center;
-    width: 290px;
+    width: 390px;
     font-size: 20px;
   }
   
@@ -1905,5 +1905,3 @@ responsive
 
 }
 
-
-s
