@@ -778,8 +778,7 @@ banner
 
 #bg-video {
 
-  object-fit: cover;
-  margin-bottom: -42px;
+visibility: hidden;
 }
 
   .main-banner .caption h6 {
