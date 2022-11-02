@@ -790,14 +790,6 @@ banner
     font-size: 36px;
   }
 
-  #bg-video {
-    min-width: 100%;
-    min-height: 100vh;
-    max-width: 100%;
-    max-height: 100vh;
-    object-fit: cover;
-  
-
 }
 
 
@@ -1911,5 +1903,4 @@ responsive
     color: #1f272b;
   }
 
-}
 }
