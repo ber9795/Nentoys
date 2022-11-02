@@ -780,7 +780,6 @@ banner
 
   object-fit: cover;
   margin-bottom: -42px;
-  visibility: hidden;
 }
 
   .main-banner .caption h6 {
@@ -791,7 +790,15 @@ banner
     font-size: 36px;
   }
 
+  #bg-video {
+    min-width: 100%;
+    min-height: 100vh;
+    max-width: 100%;
+    max-height: 100vh;
+    object-fit: cover;
+  
 
+}
 
 
 /*
@@ -1905,4 +1912,4 @@ responsive
   }
 
 }
-
+}
