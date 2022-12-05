@@ -1,7 +1,5 @@
 # Nentoys
-Website para a micro empresa Nentoys(venda onbline de action figures) feito em Javascripot, HTML e CSS.
-
-
+Website para a micro empresa Nentoys(venda onbline de action figures) feito em Javascripot, HTML e CSS
 <br>
  [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
