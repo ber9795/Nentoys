@@ -11,7 +11,6 @@ Website para a micro empresa Nentoys(venda onbline de action figures) feito em J
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 
-
 ## Descrição do Projeto
 
 Website para a micro empresa Nentoys(venda onbline de action figures) feito em Javascripot, HTML e CSS.
